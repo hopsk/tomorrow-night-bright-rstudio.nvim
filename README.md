@@ -5,9 +5,7 @@ recreate the classic feel of RStudio.
 
 This theme is a port of the 
 [VS Code/Positron version](https://github.com/gvelasq/tomorrow-night-bright-r-classic/)
-, which itself is based on the classic Tomorrow Night Bright palette but with
-specific RStudio-inspired syntax highlighting (e.g., functions and variables
-use the foreground color for a cleaner, focused look)
+, which itself draws on the version that comes packaged with RStudio.
 
 # Installation
 
@@ -29,9 +27,9 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ## Credits
 
-- Ported to Neovim by **Kyle Hopkins**.
-- Ported from [gvelasq/tomorrow-night-bright-r-classic](https://github.com/gvelasq/tomorrow-night-bright-r-classic/).
-- Original palette from [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme) by **Chris Kempson**.
+- Ported to Neovim by **Kyle Blake Hopkins**.
+- Ported with modification from [gvelasq/tomorrow-night-bright-r-classic](https://github.com/gvelasq/tomorrow-night-bright-r-classic/).
+- Original [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme) by **Chris Kempson**.
 
 ## License
 
