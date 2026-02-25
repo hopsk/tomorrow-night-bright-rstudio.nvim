@@ -23,11 +23,14 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 ```
 ## Screenshots
 
-![image](./assets/00_screenshot.png) ![image](./assets/01_screenshot.png) ![image](./assets/02_screenshot.png)
+![image](./assets/00_screenshot.png)
+
+#### Running inside RStudio terminal
+
+![image](./assets/01_screenshot.png) ![image](./assets/02_screenshot.png)
 
 ## Credits
 
-- Ported to Neovim by **Kyle Blake Hopkins**.
 - Ported with modification from [gvelasq/tomorrow-night-bright-r-classic](https://github.com/gvelasq/tomorrow-night-bright-r-classic/).
 - Original [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme) by **Chris Kempson**.
 
