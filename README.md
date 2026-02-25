@@ -29,10 +29,9 @@ Using [lazy.nvim](https://github.com/folke/lazy.nvim):
 
 ## Credits
 
-## Ported from [gvelasq/tomorrow-night-bright-r-classic](https://github.com/gvelasq/tomorrow-night-bright-r-classic/).
-
-- Original palette based on 
-  [Tomorrow Night Bright](https://github.com/chriskempson/tomorrow-theme).
+- Ported to Neovim by **Kyle Hopkins**.
+- Ported from [gvelasq/tomorrow-night-bright-r-classic](https://github.com/gvelasq/tomorrow-night-bright-r-classic/).
+- Original palette from [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme) by **Chris Kempson**.
 
 ## License
 
